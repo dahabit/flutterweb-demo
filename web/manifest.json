@@ -1,6 +1,6 @@
 {
-    "name": "demoweb",
-    "short_name": "demoweb",
+    "name": "demo2app",
+    "short_name": "demo2app",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
